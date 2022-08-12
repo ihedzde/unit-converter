@@ -1,5 +1,5 @@
-# unit-converter
-Unit converter on SwiftUI
+# Unit Converter
+## Unit converter on SwiftUI
 
 This app supports converting  units in following categories:
 - Volume
